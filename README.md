@@ -1,5 +1,16 @@
 # 전극보일러용 전극 문헌 조사
 
+## 주제별 통합 정리: 원문 11편 (2026년 11월 9일)
+
+[워드 문서 다운로드](https://github.com/jskang5000-arch/-/raw/refs/heads/main/documents/electrode-thematic-review-11-papers-ko.docx) · [읽기용 PDF 다운로드](https://github.com/jskang5000-arch/-/raw/refs/heads/main/documents/electrode-thematic-review-11-papers-ko.pdf)
+
+- 재료·표면 처리 / 부식·고장 / 형상·배치 / 전원 조건 / 수질·스케일 / 기술 동향의 6개 주제
+- 초록·서론 구분 없이 주제별 내용과 연구의 시사점을 통합 정리
+- 논문 원본 그림·그래프 18개, 출처와 원문 페이지
+- 통합 실험·설계 평가 방향 및 참고문헌 11편
+
+워드 약 7.7 MiB, PDF 약 2.5 MiB (22쪽).
+
 ## 추가 논문 5편 정리 (2026년 11월 9일)
 
 [워드 문서 다운로드](https://github.com/jskang5000-arch/-/raw/refs/heads/main/documents/electrode-additional-five-papers-ko.docx) · [읽기용 PDF 다운로드](https://github.com/jskang5000-arch/-/raw/refs/heads/main/documents/electrode-additional-five-papers-ko.pdf)

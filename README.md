@@ -1,13 +1,15 @@
 # 전극보일러용 전극 문헌 조사
 
-## 논문별 한 장 PPT: 11편 (2026년 11월 10일)
+## 논문별 한 장 PPT: 11편 · 내용 보강 수정본 (2026년 11월 10일)
 
 [PPT 다운로드](https://github.com/jskang5000-arch/-/raw/refs/heads/main/documents/electrode-literature-11-slides-ko.pptx) · [미리보기용 PDF 다운로드](https://github.com/jskang5000-arch/-/raw/refs/heads/main/documents/electrode-literature-11-slides-ko.pdf)
 
 - 표지 없이 논문당 한 장, 총 11장
-- 논문별 원본 그림 1~2개, 총 14개
-- 연구 조건·핵심 결과·연구의 시사점과 적용 한계
-- 각 장 DOI 링크, 발표자 노트에 상세 조건·그림 출처
+- 논문별 원본 그림 1~2개, 총 13개와 그림 해석
+- 연구 대상을 드러내는 제목으로 수정, 상단 공통 문구 제거
+- 연구 대상·실험 방법·정량 결과·원인 해석을 보강 (기존 대비 본문 약 2.6배)
+- 연구의 시사점과 적용 범위, 좌하단에 논문명·저자·학술지·DOI·그림 출처
+- 발표자 노트에 상세 조건과 해석 시 유의점
 
 ## 주제별 통합 정리: 원문 11편 (2026년 11월 9일)
 

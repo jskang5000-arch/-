@@ -1,5 +1,15 @@
 # 전극보일러용 전극 문헌 조사
 
+## 사용자 수정본 서식 정리: 8장 (2026년 11월 11일)
+
+[수정 PPT 다운로드](https://github.com/jskang5000-arch/-/raw/refs/heads/main/documents/electrode-papers-user-revised-format-ko.pptx)
+
+- 사용자 수정 내용과 원본 그림 유지
+- 슬라이드 노트 전체 삭제, 글꼴을 맑은 고딕으로 통일
+- 소제목 16pt, 본문·그림 설명·출처 14pt
+- 그림 뒤 배경 제거, 겹친 그림 정렬, 하단 시사점·요약 박스를 얇게 조정
+- 현재 8장 기준으로 페이지 번호 정리
+
 ## 논문별 한 장 PPT: 11편 · 내용 보강 수정본 (2026년 11월 10일)
 
 [PPT 다운로드](https://github.com/jskang5000-arch/-/raw/refs/heads/main/documents/electrode-literature-11-slides-ko.pptx) · [미리보기용 PDF 다운로드](https://github.com/jskang5000-arch/-/raw/refs/heads/main/documents/electrode-literature-11-slides-ko.pdf)

@@ -1,0 +1,82 @@
+[
+  {
+    "file": "scale-fig3a-turbidity-frequency.png",
+    "source_panel": "(a) 주파수별 시간-탁도",
+    "clip_pdf_points": [
+      139,
+      49,
+      333,
+      159
+    ]
+  },
+  {
+    "file": "scale-fig3b-turbidity-voltage.png",
+    "source_panel": "(b) 100 Hz 전압별 시간-탁도",
+    "clip_pdf_points": [
+      337,
+      49,
+      460,
+      159
+    ]
+  },
+  {
+    "file": "scale-fig3c-conductivity-ph.png",
+    "source_panel": "(c) 전도도·pH",
+    "clip_pdf_points": [
+      147,
+      163,
+      454,
+      265
+    ]
+  },
+  {
+    "file": "scale-fig3d-surface-coverage.png",
+    "source_panel": "(d) Ti 표면 피복률",
+    "clip_pdf_points": [
+      154,
+      269,
+      425,
+      378
+    ]
+  },
+  {
+    "file": "scale-fig3e-sem-eds.png",
+    "source_panel": "(e) SEM·EDS",
+    "clip_pdf_points": [
+      141,
+      381,
+      461,
+      430
+    ]
+  },
+  {
+    "file": "scale-fig3e-sem.png",
+    "source_panel": "(e) SEM 비교",
+    "clip_pdf_points": [
+      141,
+      381,
+      300,
+      430
+    ]
+  },
+  {
+    "file": "scale-fig3e-eds.png",
+    "source_panel": "(e) EDS 비교",
+    "clip_pdf_points": [
+      299,
+      381,
+      461,
+      430
+    ]
+  },
+  {
+    "file": "scale-fig3ab-turbidity.png",
+    "source_panel": "(a·b) 탁도 그래프 함께",
+    "clip_pdf_points": [
+      139,
+      49,
+      461,
+      159
+    ]
+  }
+]
